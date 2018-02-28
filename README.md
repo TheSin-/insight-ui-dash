@@ -1,10 +1,10 @@
 # Insight UI Terracoin
 
-A Terracoin blockchain explorer web application service for [Bitcore Node Terracion](https://github.com/TheSin-/bitcore-node-terracoin) using [Insight API Terracoin](https://github.com/TheSin-/insight-api-terracoin).
+A Terracoin blockchain explorer web application service for [Bitcore Node Terracion](https://github.com/terracoin/bitcore-node-terracoin) using [Insight API Terracoin](https://github.com/terracoin/insight-api-terracoin).
 
 ## Quick Start
 
-Please see the guide at [https://bitcore.io/guides/full-node](https://bitcore.io/guides/full-node) for information about getting a block explorer running. This is only the front-end component of the block explorer, and is packaged together with all of the necessary components in [Bitcore](https://github.com/TheSin-/bitcore-terracoin).
+Please see the guide at [https://bitcore.io/guides/full-node](https://bitcore.io/guides/full-node) for information about getting a block explorer running. This is only the front-end component of the block explorer, and is packaged together with all of the necessary components in [Bitcore](https://github.com/terracoin/bitcore-terracoin).
 
 ## Getting Started
 
@@ -70,11 +70,11 @@ compile***.
 
 ## Note
 
-For more details about the [Insight API](https://github.com/TheSin-/insight-api-terracoin) configuration and end-points, go to [Insight API GitHub repository](https://github.com/TheSin-/insight-api-terracoin).
+For more details about the [Insight API](https://github.com/terracoin/insight-api-terracoin) configuration and end-points, go to [Insight API GitHub repository](https://github.com/terracoin/insight-api-terracoin).
 
 ## Contribute
 
-Contributions and suggestions are welcomed at the [Insight UI Terracoin GitHub repository](https://github.com/TheSin-/insight-ui-terracoin).
+Contributions and suggestions are welcomed at the [Insight UI Terracoin GitHub repository](https://github.com/terracoin/insight-ui-terracoin).
 
 
 ## License
